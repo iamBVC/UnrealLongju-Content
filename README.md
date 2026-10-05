@@ -1,8 +1,6 @@
 # UnrealLongju Content
 
-Unreal Engine 5 content for the [UnrealLongju project](https://github.com/iamBVC/Metin2). This repository is checked out as the parent project's `Content` submodule.
-
-At initialization, this repository contains documentation only. It does not yet include game assets, and initializing the submodule alone does not provide the content required to run the game.
+Unreal Engine 5 content for the [UnrealLongju project](https://github.com/iamBVC/UnrealLongju). This repository is checked out as the parent project's `Content` submodule.
 
 ## Third-party assets and rights
 
